@@ -1,2 +1,4 @@
 # resume
-This is a static site using mkdocs
+This is a static site using mkdocs.
+
+- https://resume.slrpnk.tech
