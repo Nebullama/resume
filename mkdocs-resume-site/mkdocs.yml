@@ -1,6 +1,6 @@
 site_name: Brian Devonshire
 site_url: http://resume.slrpnk.tech
-dev_addr: 127.0.0.1:8000
+dev_addr: 10.3.82.129:8000
 nav:
   - Home: index.md
   - Homelab: Homelab.md
