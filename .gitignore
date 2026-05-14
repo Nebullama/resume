@@ -1,0 +1,6 @@
+# venv
+/home/bdevonshire/mkdocs-backup/mkdocs-resume-site/venv
+
+# temp files
+*.tmp
+*~
