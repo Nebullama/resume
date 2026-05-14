@@ -1,0 +1,10 @@
+site_name: Brian Devonshire
+site_url: http://resume.slrpnk.tech
+dev_addr: 10.3.82.100:8000
+nav:
+  - Home: index.md
+  - Homelab: Homelab.md
+theme:
+  name: solar
+extra_css:
+  - colorheaders.css
